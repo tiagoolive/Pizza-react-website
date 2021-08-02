@@ -37,9 +37,25 @@ export const ProductsData2 = [
     {
         img: desert1,
         alt: 'Sorvete',
-        name: 'Sorvete Variado',
+        name: 'Sorvete',
         desc: 'Vários sabores diferentes de sorvete para voce apreciar',
         price: 'R$15',
         button: 'Adicionar ao carrinho'
-    }
+    },
+    {
+        img: desert2,
+        alt: 'Bolo',
+        name: 'Bolinho',
+        desc: 'Bolinho com gotas de chocolate e calda de morango',
+        price: 'R$8',
+        button: 'Adicionar ao carrinho'
+    },
+    {
+        img: desert3,
+        alt: 'Torta',
+        name: 'Torta de paçoca',
+        desc: 'Torta de paçoca e cobertura de coco',
+        price: 'R$16',
+        button: 'Adicionar ao carrinho'
+    },
 ]
